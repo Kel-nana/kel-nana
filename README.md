@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="25%"/><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="269.5px"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="269.5px"/><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="269.5px"/>
   <h1>Hi 👋; Im Kelvin Irungu </h1>
   <a href="https://twitter.com/irungu69 "><img src="https://res.cloudinary.com/dv36saha6/image/upload/v1676038071/twitter_ll0spo.png" width="50px" height="50px"/> <a>
     <a href="https://www.linkedin.com/in/kelvin-irungu-838923249/ "><img src="https://res.cloudinary.com/dv36saha6/image/upload/v1676064277/link_u9dydt.png" width="50px" height="50px"/> <a>
