@@ -31,6 +31,10 @@
         
         ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-        
-          
+        .
+          <div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kel-nana&custom_title=kel-nana's%20GitHub%20Activity%20Graph&bg_color=20124d&color=A9FEF7&line=b62cc5&point=F8D847&area_color=FE428E&title_color=b62cc5&area=true" alt="kel-nana's Github Activity Graph" width="100%">
+            <p align="left"> <img src="https://komarev.com/ghpvc/?username=kel-nana&label=Profile%20views&color=a024ae&style=flat" alt="kel-nana" /> </p>
+</div>
+            
 
