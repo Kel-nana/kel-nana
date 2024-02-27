@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[https://i.gifer.com/U0zb.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FU0zb&psig=AOvVaw0k65cHIQiHzligIaaruzxb&ust=1709126775071000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCxm8TPy4QDFQAAAAAdAAAAABAE)" width="50%" height="269.5px"/><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="269.5px"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="269.5px"/><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="269.5px"/>
   <h1>Hi 👋; Im Kelvin Irungu </h1>
   # 💫 About Me:</br>
 - 🔭 I’m currently working on building simple apps using HTML, CSS, and JavaScript.</br>
