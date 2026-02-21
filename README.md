@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="269.5px"/><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="269.5px"/>
   <h1>Hi 👋; Im Kelvin Irungu </h1>
   # 💫 About Me:</br>
-- 🔭 I’m currently working on building simple apps using HTML, CSS, and JavaScript.</br>
-- 🌱 I’m currently learning full-stack development on React,Redux,Bootstrap,Ruby and Ruby on Rails</br>
-- 👯 I’m looking to collaborate on building front web applications.</br>
-- 💬 Ask me about : web applications</br>
-- ⚡ Fun fact: I enjoy problem solving .</br></br>
+I’m a backend-focused engineer working on AI-integrated booking and automation systems for hospitality businesses. My focus is reducing operational friction through structured data, workflow logic, and integrations.</br></br>
   <a href="https://twitter.com/irungu69 "><img src="https://res.cloudinary.com/dv36saha6/image/upload/v1676038071/twitter_ll0spo.png" width="50px" height="50px"/> <a>
     <a href="https://www.linkedin.com/in/kelvin-irungu-838923249/ "><img src="https://res.cloudinary.com/dv36saha6/image/upload/v1676064277/link_u9dydt.png" width="50px" height="50px"/> <a>
       <a href="https://github.com/Kel-nana"><img src="https://res.cloudinary.com/dv36saha6/image/upload/v1676064712/github_eogd2i.png" width="50px" height="50px"/> <a>
